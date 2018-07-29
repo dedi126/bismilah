@@ -42,16 +42,7 @@
 									<th>Action</th>
 								</tr>
 							</thead>
-							<tfoot>
-								<tr>
-									<th>Id</th>
-									<th>Nama</th>
-									<th>Jenis Kelamin</th>
-									<th>Alamat</th>
-									<th>Email</th>
-									<th>Action</th>
-								</tr>
-							</tfoot>
+							
 						</table>                   
 	                </div><!-- /.panel-body -->
 					<!-- /view data -->
